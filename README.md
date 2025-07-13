@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SahilKumar
-- 👀 I’m interested in Android Development, Web Development and Software Development 
-- 🌱 I’m currently learning Flutter, dart and firebase
+- 👀 I’m interested in Artificial Intelligence and Machine Learning 
+- 🌱 I’m currently learning Python and Machine Learning
 - 💞️ I’m looking to collaborate with an organization as an intern
 - 📫 How to reach me - Email: sk6498134@gmail.com
 
